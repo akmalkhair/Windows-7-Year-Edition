@@ -1,4 +1,4 @@
-# Themes Windows 7 Year Edition
+# Themes Yearly Editions
 ===============================================
 # The Edition that has been Available :
 # 1.Windows 7 2020 Edition
